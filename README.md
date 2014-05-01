@@ -1,4 +1,4 @@
-Icecat impoter
+Icecat importer
 ==============
 
 This is the icecat-importer free program developed by Christian Roman Rua.

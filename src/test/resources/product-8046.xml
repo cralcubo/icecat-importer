@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ICECAT-interface SYSTEM "http://data.icecat.biz/dtd/ICECAT-interface_response.dtd">
+<!-- source: Icecat.biz 2014 -->
+<ICECAT-interface xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://data.icecat.biz/xsd/ICECAT-interface_response.xsd">
+   <Product Code="1" HighPic="http://images.icecat.biz/img/norm/high/8046-5219.jpg" HighPicHeight="225" HighPicSize="17776" HighPicWidth="225" ID="8046" LowPic="http://images.icecat.biz/img/norm/low/8046-5219.jpg" LowPicHeight="200" LowPicSize="21809" LowPicWidth="200" Name="Notepac Plus" Pic500x500="" Pic500x500Height="0" Pic500x500Size="0" Pic500x500Width="0" Prod_id="CNP1" Quality="ICECAT" ReleaseDate="2005-07-15" ThumbPic="http://images.icecat.biz/thumbs/8046.jpg" ThumbPicSize="4016" Title="Targus Notepac Plus">
+    <Category ID="1285">
+    <Name ID="11085" Value="notebook cases" langid="1"/>
+
+    </Category>
+   <CategoryFeatureGroup ID="10740" No="0">
+     <FeatureGroup ID="0">
+       <Name ID="5073" Value="Technical details" langid="1"/>
+     </FeatureGroup>
+    </CategoryFeatureGroup>
+    <CategoryFeatureGroup ID="1484" No="-1">
+     <FeatureGroup ID="14">
+       <Name ID="5023" Value="Weight &amp; dimensions" langid="1"/>
+     </FeatureGroup>
+    </CategoryFeatureGroup>
+    <CategoryFeatureGroup ID="9751" No="-10">
+     <FeatureGroup ID="67">
+       <Name ID="27423" Value="Packaging data" langid="1"/>
+     </FeatureGroup>
+    </CategoryFeatureGroup>
+    <CategoryFeatureGroup ID="9066" No="-100">
+     <FeatureGroup ID="146">
+       <Name ID="624346" Value="Other features" langid="1"/>
+     </FeatureGroup>
+    </CategoryFeatureGroup>
+    <CategoryFeatureGroup ID="10739" No="10">
+     <FeatureGroup ID="148">
+       <Name ID="630457" Value="Design" langid="1"/>
+     </FeatureGroup>
+    </CategoryFeatureGroup>
+     <EANCode EAN="5024442240003"/>
+     <EANCode EAN="5052461407954"/>
+   
+   <ReasonsToBuy/>
+   <ProductBundled/>
+       <ProductDescription ID="82352" LongDesc="The enhanced Targus Notepac Plus offers a new elegant design. It offers all the features of the Notepac case, plus our popular zip-down workstation and a full expanding file section to transport and protect your documents. Whilst retaining the original benefits this newly enhanced Notepac plus offers much, much more including a new design, and additional pockets for all your accessories: CD's, mobile phone, Pda, keys, pens, business cards, disks , sunglasses...improving your organisation. Its new elegant design combines nylon and koskin making this case perfect for notebooks with screens up to 15/15.4&quot;. (This case is also available with Targus' patented Air Protection System). Including a rear lugagge strap to secure your case to your trolley, enhanced padded shoulder strap and cushioned handle for enhanced comfort, the result is a versatile multifunctional case at an affordable price.\n\n    * Padded notebook computer compartment for machines up to 15/15.4 inches\n    * Stylish multifunctional case designed to meet your daily needs\n    * Zip-Down workstation and accessory pockets for carrying all those necessary extras:- mobile phone, PDA, sunglasses, pens, CDs, keys, business cards and many more\n    * Expanding file section for your days documentation\n    * Reinforced cushioned handle riveted to the case ensuring ultimate protection for your notebook\n    * Dual-pull, self-healing nylon zippers\n    * Non-Skid square rubber feet for shock absorbtion\n    * Elegant nylon and koskin trim material featuring nickel fittings\n    * Full-Length rear slip pocket\n    * Detachable shoulder strap with cushioned pad for improved comfort when on the move\n    * Luggage strap to secure the case to your trolley\n    * Notebook Restraining Strap\n    * CD Sleeves pockets integrated to transport your CD's with maximum protection" ManualPDFSize="0" ManualPDFURL="" PDFSize="181828" PDFURL="http://pdfs.icecat.biz/pdf/82352-9751.pdf" ShortDesc="Carry Case notepac plus nylon black Targus" URL="http://www.targus.com/uk/product_details.asp?sku=CNP1" WarrantyInfo="Lifetime " langid="1"/>
+   <ProductFamily ID="1" LowPic="" ThumbPic=""/>
+   
+	<ProductFeature Localized="0" ID="5531369" Local_ID="0" Value="15.4" CategoryFeature_ID="36262" CategoryFeatureGroup_ID="10739" No="10101001" Presentation_Value="39.12 cm (15.4&quot;)" Translated="0" Mandatory="1" Searchable="1">
+          <LocalValue Value="391.2">
+            <Measure ID="24">
+              <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+            </Measure>
+          </LocalValue>
+	  <Feature ID="6767">
+	    <Measure ID="16" Sign="">
+	      <Signs><Sign ID="11" langid="1"><![CDATA["]]></Sign></Signs>
+	    </Measure>
+	    <Name ID="279375" langid="1" Value="Maximum screen size compatibility"/>
+	  </Feature>
+	</ProductFeature>
+
+	<ProductFeature Localized="0" ID="14891304" Local_ID="0" Value="Briefcase" CategoryFeature_ID="18823" CategoryFeatureGroup_ID="10739" No="10101000" Presentation_Value="Briefcase" Translated="0" Mandatory="1" Searchable="1">
+          <LocalValue Value="Briefcase">
+            <Measure ID="29">
+              <Signs/>
+            </Measure>
+          </LocalValue>
+	  <Feature ID="31">
+	    <Measure ID="29" Sign="">
+	      <Signs/>
+	    </Measure>
+	    <Name ID="1375" langid="1" Value="Type"/>
+	  </Feature>
+	</ProductFeature>
+
+	<ProductFeature Localized="0" ID="5826327" Local_ID="0" Value="Black" CategoryFeature_ID="11261" CategoryFeatureGroup_ID="10739" No="10100100" Presentation_Value="Black" Translated="0" Mandatory="1" Searchable="1">
+          <LocalValue Value="Black">
+            <Measure ID="29">
+              <Signs/>
+            </Measure>
+          </LocalValue>
+	  <Feature ID="1766">
+	    <Measure ID="29" Sign="">
+	      <Signs/>
+	    </Measure>
+	    <Name ID="5487" langid="1" Value="Colour of product"/>
+	  </Feature>
+	</ProductFeature>
+
+	<ProductFeature Localized="0" ID="10528852" Local_ID="0" Value="1500" CategoryFeature_ID="11260" CategoryFeatureGroup_ID="1484" No="100025" Presentation_Value="1.5 kg" Translated="0" Mandatory="1" Searchable="0">
+          <LocalValue Value="1500">
+            <Measure ID="38">
+              <Signs><Sign ID="22" langid="1"><![CDATA[g]]></Sign></Signs>
+            </Measure>
+          </LocalValue>
+	  <Feature ID="94">
+	    <Measure ID="38" Sign="">
+	      <Signs><Sign ID="22" langid="1"><![CDATA[g]]></Sign></Signs>
+	    </Measure>
+	    <Name ID="1525" langid="1" Value="Weight"/>
+	  </Feature>
+	</ProductFeature>
+
+	<ProductFeature Localized="0" ID="14891302" Local_ID="0" Value="330 x 300 x 50" CategoryFeature_ID="13099" CategoryFeatureGroup_ID="1484" No="100000" Presentation_Value="330 x 300 x 50 mm" Translated="0" Mandatory="0" Searchable="0">
+          <LocalValue Value="330 x 300 x 50">
+            <Measure ID="24">
+              <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+            </Measure>
+          </LocalValue>
+	  <Feature ID="2350">
+	    <Measure ID="24" Sign="">
+	      <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+	    </Measure>
+	    <Name ID="12144" langid="1" Value="Notebook compartment dimensions (WxDxH)"/>
+	  </Feature>
+	</ProductFeature>
+
+	<ProductFeature Localized="0" ID="5531367" Local_ID="0" Value="400 x 330 x 130" CategoryFeature_ID="11259" CategoryFeatureGroup_ID="9066" No="100000" Presentation_Value="400 x 330 x 130 mm" Translated="0" Mandatory="0" Searchable="0">
+          <LocalValue Value="400 x 330 x 130">
+            <Measure ID="24">
+              <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+            </Measure>
+          </LocalValue>
+	  <Feature ID="49">
+	    <Measure ID="24" Sign="">
+	      <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+	    </Measure>
+	    <Name ID="1435" langid="1" Value="Dimensions (WxDxH)"/>
+	  </Feature>
+	</ProductFeature>
+
+	<ProductFeature Localized="0" ID="45971811" Local_ID="0" Value="Icecat.biz" CategoryFeature_ID="33546" CategoryFeatureGroup_ID="10739" No="0" Translated="1" Mandatory="0" Searchable="0">
+      
+	  <Feature ID="6617">
+	    <Measure ID="29" Sign="">
+	      <Signs/>
+	    </Measure>
+	    <Name ID="241024" langid="1" Value="Source data-sheet"/>
+	  </Feature>
+	</ProductFeature>
+
+       <ProductGallery>
+      <ProductPicture LowPic="http://images.icecat.biz/img/gallery_lows/16713_8046-Targus-CNP1-1121.jpg" LowPicHeight="200" LowPicWidth="200" LowSize="22131" Pic="http://images.icecat.biz/img/gallery/16713_8046-Targus-CNP1-1121.jpg" Pic500x500="" Pic500x500Height="0" Pic500x500Size="0" Pic500x500Width="0" PicHeight="500" PicWidth="500" ProductPicture_ID="757473" Size="61715" ThumbPic="http://images.icecat.biz/img/gallery_thumbs/16713_8046-Targus-CNP1-1121.jpg" ThumbSize="4797"/>
+      <ProductPicture LowPic="http://images.icecat.biz/img/gallery_lows/16713_8046-Targus-CNP1-1122.jpg" LowPicHeight="200" LowPicWidth="200" LowSize="26035" Pic="http://images.icecat.biz/img/gallery/16713_8046-Targus-CNP1-1122.jpg" Pic500x500="" Pic500x500Height="0" Pic500x500Size="0" Pic500x500Width="0" PicHeight="500" PicWidth="500" ProductPicture_ID="757474" Size="73207" ThumbPic="http://images.icecat.biz/img/gallery_thumbs/16713_8046-Targus-CNP1-1122.jpg" ThumbSize="5525"/>
+      <ProductPicture LowPic="http://images.icecat.biz/img/gallery_lows/8046-Targus-CNP1-2441.jpg" LowPicHeight="200" LowPicWidth="200" LowSize="23364" Pic="http://images.icecat.biz/img/gallery/8046-Targus-CNP1-2441.jpg" Pic500x500="" Pic500x500Height="0" Pic500x500Size="0" Pic500x500Width="0" PicHeight="500" PicWidth="500" ProductPicture_ID="6094893" Size="111819" ThumbPic="http://images.icecat.biz/img/gallery_thumbs/8046-Targus-CNP1-2441.jpg" ThumbSize="5093"/>
+      <ProductPicture LowPic="http://images.icecat.biz/img/gallery_lows/8046-Targus-CNP1-2442.jpg" LowPicHeight="200" LowPicWidth="200" LowSize="22798" Pic="http://images.icecat.biz/img/gallery/8046-Targus-CNP1-2442.jpg" Pic500x500="" Pic500x500Height="0" Pic500x500Size="0" Pic500x500Width="0" PicHeight="500" PicWidth="500" ProductPicture_ID="6094900" Size="95780" ThumbPic="http://images.icecat.biz/img/gallery_thumbs/8046-Targus-CNP1-2442.jpg" ThumbSize="5170"/>
+    </ProductGallery>
+
+   
+   	  <ProductRelated ID="432821" Category_ID="1285" Reversed="0" Preferred="0">
+	    <Product ID="87114" Prod_id="64074" ThumbPic="http://inishop.com/thumbs/87114.jpg" Name="NOTEBOOK TRAVELLER PC">
+	      <Supplier ID="147" Name="Acco"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="426693" Category_ID="1285" Reversed="0" Preferred="0">
+	    <Product ID="53556" Prod_id="CNP1V3" ThumbPic="http://images.icecat.biz/thumbs/53556.jpg" Name="Notepac plus nylon black">
+	      <Supplier ID="128" Name="Targus"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="426691" Category_ID="1285" Reversed="0" Preferred="0">
+	    <Product ID="52568" Prod_id="CNP1V2" ThumbPic="http://images.icecat.biz/thumbs/52568.jpg" Name="NOTEPAC PLUS">
+	      <Supplier ID="128" Name="Targus"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="2062972" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="441754" Prod_id="LX.ABW05.004" ThumbPic="http://images.icecat.biz/thumbs/441754.jpg" Name="Aspire 5652WLMib_256">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="2062973" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="376413" Prod_id="LX.A5105.370" ThumbPic="http://images.icecat.biz/thumbs/376413.jpg" Name="Aspire 5003WLMi_100">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="2083607" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="373236" Prod_id="LX.AA705.087" ThumbPic="http://images.icecat.biz/thumbs/373236.jpg" Name="Aspire 5672WLMi">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="2062971" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="359809" Prod_id="LX.A9905.062" ThumbPic="http://images.icecat.biz/thumbs/359809.jpg" Name="Aspire 1652WLMi_128">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="2062974" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="357744" Prod_id="LX.FR405.059" ThumbPic="http://images.icecat.biz/thumbs/357744.jpg" Name="Ferrari 4002WLMib Turion64 ML30 512MB 80GB">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="2062970" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="343497" Prod_id="PSM71E-00W00FDU" ThumbPic="http://images.icecat.biz/thumbs/343497.jpg" Name="Satellite M70-147 1.73GHz/1GB/80GB/15.4-TB/SuperMulti+-/Win XP Home">
+	      <Supplier ID="2" Name="Toshiba"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1030888" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="292967" Prod_id="LX.FR406.023" ThumbPic="http://images.icecat.biz/thumbs/292967.jpg" Name="Ferrari 4005WLMib">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021556" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="284608" Prod_id="LX.T7106.079-B" ThumbPic="http://images.icecat.biz/thumbs/284608.jpg" Name="TM 2355LC Mobile Cel 1.4GHz (Cel M 360/1MB cache) XPPro SP2 15TFT 512M">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022307" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="280982" Prod_id="LX.A6605.083" ThumbPic="http://images.icecat.biz/thumbs/280982.jpg" Name="Aspire 1692WLMi, Centrino 1.7GHz Dothan 740, 15.4&quot;, 1024MB, 100GB">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1405730" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="280279" Prod_id="UR0BWNU" ThumbPic="http://images.icecat.biz/thumbs/130703.jpg" Name="ThinkPad R50e PM-1.6 256MB 40GB 15.0 inch TFT COMBO WXP US">
+	      <Supplier ID="728" Name="Lenovo"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1405676" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="279980" Prod_id="UR0BWND" ThumbPic="http://images.icecat.biz/thumbs/130700.jpg" Name="ThinkPad R50e PM-1.6 256MB 40GB 15.0 inch TFT COMBO WXP NL">
+	      <Supplier ID="728" Name="Lenovo"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1405485" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="279899" Prod_id="UC2F4ND" ThumbPic="http://images.icecat.biz/thumbs/130710.jpg" Name="ThinkPad T42p PM-745 1GB 60GB 15.0 inchTFT Centrino 11b/g Blue tooth D">
+	      <Supplier ID="728" Name="Lenovo"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022332" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="276996" Prod_id="LX.A4105.079" ThumbPic="http://images.icecat.biz/thumbs/276996.jpg" Name="Aspire 1522WLMi_80 Athlon64 bit 3000+ XPH 15.4TFT WXGA 512MB 80GB Dual">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022357" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="276995" Prod_id="LX.A5505.231" ThumbPic="http://images.icecat.biz/thumbs/276995.jpg" Name="Aspire 3002WLMi">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022207" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="276898" Prod_id="LX.TA505.030" ThumbPic="http://images.icecat.biz/thumbs/276898.jpg" Name="TM4101WLMi Centrino 1.6GHz XPH SP2 15.4TFT WXGA 512MB 80GB DVD-Dual Do">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021458" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="276893" Prod_id="LX.T7106.079" ThumbPic="http://images.icecat.biz/thumbs/276893.jpg" Name="TM 2355LC Mobile Cel 1.4GHz (Cel M 360/1MB cache) XPPro SP2 15TFT 512M">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021822" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="276889" Prod_id="LX.T7605.086" ThumbPic="http://images.icecat.biz/thumbs/276889.jpg" Name="TM4150LMi Centrino 1.5GHz XPH SP2 15TFT512MB 60GB DVD-Dual double laye">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022282" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="276689" Prod_id="LX.A4905.038" ThumbPic="http://images.icecat.biz/thumbs/276689.jpg" Name="Aspire3022WLMi SempronXP2800+ XPH SP2 15.4TFT WXGA (CrystalBrite) 512M">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022132" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="276582" Prod_id="PB17C00805" ThumbPic="http://inishop.com/thumbs/276582.jpg" Name="EasyNote R4510 Plus">
+	      <Supplier ID="24" Name="Packard Bell"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022257" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="274668" Prod_id="PG803ET#ABH" ThumbPic="http://images.icecat.biz/thumbs/274544.jpg" Name="Compaq nx8220 Intel Pentium-M 750 512 MB/60 GB 15,4-inch WXGA WSXGA+WVA dvd+rw Multibay video modem WXP Pro notebook pc">
+	      <Supplier ID="1" Name="HP"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021668" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="274658" Prod_id="PT600ET#ABH" ThumbPic="http://images.icecat.biz/thumbs/274520.jpg" Name="Compaq nx6110 Intel Celeron-M 360 256M/40G 15&quot; XGA DVD/CD-RW Fixed Graphics UMA modem WXP Pro Notebook PC">
+	      <Supplier ID="1" Name="HP"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022182" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="273922" Prod_id="LX.A5205.060" ThumbPic="http://images.icecat.biz/thumbs/273922.jpg" Name="Aspire 9104WLMi, Centrino 2.0GHz Dothan 760, XPH SP2, 15.4&quot; WXGA CrystalBrite, 512MB RAM, 80GB, DVD+/-RW, 802.11g, ATI X600 128MB, PCMCIA Remote Control + TV Tuner">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022107" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="271453" Prod_id="PZ981EA#ABH" ThumbPic="http://images.icecat.biz/thumbs/271453.jpg" Name="Pavilion zv6010EA notebook pc">
+	      <Supplier ID="1" Name="HP"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021966" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="269502" Prod_id="V6V-8090P" ThumbPic="http://images.icecat.biz/thumbs/269502.jpg" Name="Notebook 15&quot; TFT/2.0GHz/80GB/1GB/2xDVD">
+	      <Supplier ID="161" Name="ASUS"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022038" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="269380" Prod_id="LX.A5505.127" ThumbPic="http://images.icecat.biz/thumbs/269380.jpg" Name="3002LMi">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021632" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="269373" Prod_id="LX.A5105.059" ThumbPic="http://images.icecat.biz/thumbs/269373.jpg" Name="Aspire 5001LMi, AMD Turion64 ML-28 1.6 GHz, XPH SP2, 15&quot;, 512MB RAM, 40GB">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022157" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="267583" Prod_id="W1799N-LH" ThumbPic="http://images.icecat.biz/thumbs/267583.jpg" Name="W1799N-LH 2.0GHz/1GB/80GB/8x DVD+/-RW DDL">
+	      <Supplier ID="161" Name="ASUS"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022232" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="255123" Prod_id="LX.T5606.217" ThumbPic="http://images.icecat.biz/thumbs/255123.jpg" Name="TM 2304WLMi_512">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021704" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="153160" Prod_id="FAP:N-NDL-V2010001" ThumbPic="http://images.icecat.biz/thumbs/153160.jpg" Name="Amilo Pro V2010 Edition">
+	      <Supplier ID="15" Name="Fujitsu"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021596" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="136068" Prod_id="PG741ET#ABH" ThumbPic="http://images.icecat.biz/thumbs/135521.jpg" Name="Compaq nx9020 Intel Celeron-M 350 256M/40G 15&quot; XGA DVD/CD-RW Fixed Intel Extreme Graphics 2 (UMA) modem WXP Pro">
+	      <Supplier ID="1" Name="HP"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021930" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="130710" Prod_id="UC2F4ND" ThumbPic="http://images.icecat.biz/thumbs/130710.jpg" Name="ThinkPad T42p PM-745 1GB 60GB 15.0 inchTFT Centrino 11b/g Blue tooth D">
+	      <Supplier ID="3" Name="IBM"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021894" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="130703" Prod_id="UR0BWNU" ThumbPic="http://images.icecat.biz/thumbs/130703.jpg" Name="ThinkPad R50e PM-1.6 256MB 40GB 15.0 inch TFT COMBO WXP US">
+	      <Supplier ID="3" Name="IBM"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021858" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="130700" Prod_id="UR0BWND" ThumbPic="http://images.icecat.biz/thumbs/130700.jpg" Name="ThinkPad R50e PM-1.6 256MB 40GB 15.0 inch TFT COMBO WXP NL">
+	      <Supplier ID="3" Name="IBM"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1022002" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="129525" Prod_id="LX.T4706.112" ThumbPic="http://images.icecat.biz/thumbs/129525.jpg" Name="TM 8004 LMIB CTR 1.7 DHN XPP SXGA 512MB 60GB MULDVD  802G DVI BT">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021740" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="129524" Prod_id="LX.T5106.099" ThumbPic="http://images.icecat.biz/thumbs/129524.jpg" Name="TravelMate 4502ALCi Cent1600 256MB 30GB">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="1021777" Category_ID="151" Reversed="0" Preferred="0">
+	    <Product ID="127251" Prod_id="LX.A3805.057" ThumbPic="http://images.icecat.biz/thumbs/127251.jpg" Name="Aspire 1362LMi">
+	      <Supplier ID="7" Name="Acer"/>
+	    </Product>
+	  </ProductRelated>
+
+   
+	  <SummaryDescription>
+	    <ShortSummaryDescription langid="1">Targus Notepac Plus, 39.12 cm (15.4&quot;), Briefcase, Black, 1.5 kg, 330 x 300 x 50 mm, 400 x 330 x 130 mm</ShortSummaryDescription>
+	    <LongSummaryDescription langid="1">Targus Notepac Plus. Maximum screen size compatibility: 39.12 cm (15.4&quot;), Type: Briefcase, Colour of product: Black. Weight: 1.5 kg, Notebook compartment dimensions (WxDxH): 330 x 300 x 50 mm. Dimensions (WxDxH): 400 x 330 x 130 mm</LongSummaryDescription>
+	  </SummaryDescription>
+
+    <Supplier ID="128" Name="Targus"/>
+   </Product>
+</ICECAT-interface>

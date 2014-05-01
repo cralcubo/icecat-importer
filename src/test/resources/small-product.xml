@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ICECAT-interface SYSTEM "http://data.icecat.biz/dtd/ICECAT-interface_response.dtd">
+<!-- source: Icecat.biz 2014 -->
+<ICECAT-interface xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://data.icecat.biz/xsd/ICECAT-interface_response.xsd">
+	<Product Code="1"
+		HighPic="http://images.icecat.biz/img/norm/high/1496-5324.jpg"
+		HighPicHeight="400" HighPicSize="39065" HighPicWidth="400" ID="777"
+		LowPic="http://images.icecat.biz/img/norm/low/1496-5324.jpg"
+		LowPicHeight="200" LowPicSize="17843" LowPicWidth="200" Name="C5709A"
+		Pic500x500="" Pic500x500Height="0" Pic500x500Size="0" Pic500x500Width="0"
+		Prod_id="C5709A" Quality="ICECAT" ReleaseDate="2005-10-06"
+		ThumbPic="http://images.icecat.biz/thumbs/1496.jpg" ThumbPicSize="4079"
+		Title="HP C5709A cleaning media">
+		<Category ID="364">
+			<Name ID="729" Value="cleaning media" langid="1" />
+
+		</Category>
+		<CategoryFeatureGroup ID="472" No="0">
+			<FeatureGroup ID="0">
+				<Name ID="5073" Value="Technical details" langid="1" />
+			</FeatureGroup>
+		</CategoryFeatureGroup>
+		<CategoryFeatureGroup ID="2652" No="0">
+			<FeatureGroup ID="14">
+				<Name ID="5023" Value="Weight &amp; dimensions" langid="1" />
+			</FeatureGroup>
+		</CategoryFeatureGroup>
+		<CategoryFeatureGroup ID="2651" No="0">
+			<FeatureGroup ID="28">
+				<Name ID="5067" Value="Operational conditions" langid="1" />
+			</FeatureGroup>
+		</CategoryFeatureGroup>
+		<EANCode EAN="0088698639993" />
+		<EANCode EAN="0088698032466" />
+		<EANCode EAN="0886986399938" />
+		<EANCode EAN="0102645782119" />
+		<EANCode EAN="5051964056072" />
+		<EANCode EAN="4948382338860" />
+
+		<ReasonsToBuy />
+		<ProductBundled />
+		<ProductDescription ID="1498"
+			LongDesc="With an installed base of more than 19 million drives and 6 million users, DDS/DAT is easily the world’s most popular tape storage format. The latest generation of this simple and successful format is delivered by the HP DAT 320 tape storage solution, providing a 12 MB/sec transfer rate and up to 320 GB capacity on a single cartridge. New manufacturing and recording technologies have created a tough, lightweight, high capacity, high performance media that more than measures up to the uncompromising storage demands of today’s dynamic, risk-aware businesses. DDS/DAT provides a reliable, low-cost, easy-to-use backup solution for small to medium-sized businesses to meet increasing storage demands and compliance criteria. A Storage Media Kit is also available, providing a complete tape media solution in one easy to buy product.\n\n- Familiar, Low-risk Format Ideal for Small and Medium-sized Backup Environments.\nDAT has a global installed base of more than 1.9 million drives, making it the favorite backup solution among small and medium sized organizations. Latest HP DAT 320 solutions feature new tape technology for better performance and higher capacity in increasingly demanding backup environments, while retaining media compatibility and interchange with DAT 160. HP DDS-DAT media are available with capacities from 40 GB (DDS-3) through to 320 GB compressed (DAT 320). Up to 86.4 GB/hour can be stored with DAT 320. HP has 76% of the market and an installed base of more than 1.3 million drives.\n- Value for Money.\nLower cost of ownership for small and medium sized organizations compared with AIT and DLT VS with a superior cost per GB. New wide format (DAT 160 and DAT 320) provides a longer tape with greater capacity. Few tape swaps and higher capacity cartridges mean a smaller footprint for backup and archiving and less downtime and operator invention. Backwards compatibility and a confirmed development roadmap offer sustained ROI and migration to higher capacities to meet growing storage demands.\n- Simple, Practical, Out-of-the-box Solution.\nThe USB model can be out of the box and ready to go in under 60 seconds. HP One-Button Disaster Recovery (OBDR) Solution supports HP DAT media on HP DDS/DAT drives. With OBDR you can quickly, reliably and simply restore your entire system by inserting the most recent backup tape and pushing a button the tape drive. Supports the full range of HP tools and software for smooth, effective backup and rapid fault diagnosis and resolution. A Storage Media Kit is also available, providing a complete tape media solution in one easy to buy product.\n- Exhaustively Qualified and Warranted for Use with HP and Non-HP DAT Products.\nA continuous testing program in HP’s media laboratory guarantees maximum restore performance. 70,000 tests and 1.3 million test hours a year emulate real-world environmental conditions and usage to ensure every tape works reliably the first time and every time. HP warrants DAT cartridges for up to 30 years archival life. This ensures businesses can meet the ever-increasing demands of regulation for data retention and archiving."
+			ManualPDFSize="0" ManualPDFURL="A URL" PDFSize="0" PDFURL="A URL"
+			ShortDesc="DDS/DAT Cleaning Cartridge" URL="http://h30094.www3.hp.com/product.asp?sku=1008781"
+			WarrantyInfo="Lifetime" langid="1" />
+		<ProductFamily ID="1" LowPic="" ThumbPic="" />
+
+		<ProductFeature Localized="0" ID="110759147" Local_ID="0"
+			Value="4" CategoryFeature_ID="10320" CategoryFeatureGroup_ID="472"
+			No="100004" Presentation_Value="4 mm" Translated="0" Mandatory="0"
+			Searchable="0">
+			<LocalValue Value="4">
+				<Measure ID="24">
+					<Signs>
+						<Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+					</Signs>
+				</Measure>
+			</LocalValue>
+			<Feature ID="1446">
+				<Measure ID="24" Sign="">
+					<Signs>
+						<Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+					</Signs>
+				</Measure>
+				<Name ID="4435" langid="1" Value="Tape size" />
+			</Feature>
+		</ProductFeature>
+
+		<ProductFeature Localized="0" ID="108271647" Local_ID="0"
+			Value="15 x 80 x 57.9" CategoryFeature_ID="32006"
+			CategoryFeatureGroup_ID="472" No="100000" Presentation_Value="15 x 80 x 57.9 mm"
+			Translated="0" Mandatory="0" Searchable="0">
+			<LocalValue Value="15 x 80 x 57.9">
+				<Measure ID="24">
+					<Signs>
+						<Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+					</Signs>
+				</Measure>
+			</LocalValue>
+			<Feature ID="49">
+				<Measure ID="24" Sign="">
+					<Signs>
+						<Sign ID="3" langid="1"><![CDATA[mm]]></Sign>
+					</Signs>
+				</Measure>
+				<Name ID="1435" langid="1" Value="Dimensions (WxDxH)" />
+			</Feature>
+		</ProductFeature>
+
+		<ProductGallery />
+		<ProductMultimediaObject>
+			<MultimediaObject ContentType="text/html" Date="2014-03-03 14:43:15"
+				Description="Is it time you moved up to HP DAT 160?" Height="0"
+				KeepAsURL="1" MultimediaObject_ID="1695142" Size="135723" Type="brochure"
+				URL="http://objects.icecat.biz/objects/mmo-1496-1695142.html" Width="0"
+				langid="1" />
+			<MultimediaObject ContentType="application/pdf"
+				Date="2010-04-30 05:27:00" Description="Is it time you moved up to HP DAT 160?"
+				Height="0" KeepAsURL="0" MultimediaObject_ID="299333" Size="135723"
+				Type="data sheet"
+				URL="http://objects.icecat.biz/objects/HP_literature_uk_en_4AA1-2964EEE.pdf"
+				Width="0" langid="1" />
+		</ProductMultimediaObject>
+
+		<ProductRelated ID="116647122" Category_ID="215"
+			Reversed="0" Preferred="0">
+			<Product ID="15440682" Prod_id="Q1574B"
+				ThumbPic="http://images.icecat.biz/thumbs/15440682.jpg" Name="DAT 160 SCSI">
+				<Supplier ID="1" Name="HP" />
+			</Product>
+		</ProductRelated>
+		<ProductRelated ID="116598527" Category_ID="215"
+			Reversed="0" Preferred="0">
+			<Product ID="15020244" Prod_id="Q1587B"
+				ThumbPic="http://images.icecat.biz/thumbs/15020244.jpg" Name="DAT 160 SAS">
+				<Supplier ID="1" Name="HP" />
+			</Product>
+		</ProductRelated>
+
+		<SummaryDescription>
+			<ShortSummaryDescription langid="1">HP C5709A</ShortSummaryDescription>
+			<LongSummaryDescription langid="1">HP C5709A</LongSummaryDescription>
+		</SummaryDescription>
+
+		<Supplier ID="1" Name="HP" />
+	</Product>
+</ICECAT-interface>

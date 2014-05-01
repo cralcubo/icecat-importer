@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ICECAT-interface SYSTEM "http://data.icecat.biz/dtd/files.index.dtd">
+<!-- source: Icecat.biz 2014 -->
+
+<ICECAT-interface xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://data.icecat.biz/xsd/files.index.xsd">
+  <files.index Generated="20140403013842">
+    <file path="export/freexml.int/NL/1496.xml" Product_ID="1496" Updated="20140402075740" Quality="ICECAT" Supplier_id="1" Prod_ID="C5709A" Catid="364" On_Market="1" Model_Name="C5709A" Product_View="471" HighPic="http://images.icecat.biz/img/norm/high/1496-5324.jpg" HighPicSize="39065" HighPicWidth="400" HighPicHeight="400" Date_Added="20051006000000">
+      <EAN_UPCS>
+        <EAN_UPC Value="0088698639993" />
+        <EAN_UPC Value="0088698032466" />
+        <EAN_UPC Value="0886986399938" />
+        <EAN_UPC Value="0102645782119" />
+        <EAN_UPC Value="5051964056072" />
+        <EAN_UPC Value="4948382338860" />
+      </EAN_UPCS>
+      <Country_Markets>
+        <Country_Market Value="NL" />
+        <Country_Market Value="BE" />
+        <Country_Market Value="FR" />
+        <Country_Market Value="GB" />
+        <Country_Market Value="DE" />
+        <Country_Market Value="DK" />
+        <Country_Market Value="PL" />
+        <Country_Market Value="HU" />
+        <Country_Market Value="FI" />
+        <Country_Market Value="NO" />
+        <Country_Market Value="SE" />
+        <Country_Market Value="CH" />
+        <Country_Market Value="IT" />
+        <Country_Market Value="ES" />
+        <Country_Market Value="CZ" />
+        <Country_Market Value="AT" />
+        <Country_Market Value="US" />
+        <Country_Market Value="CA" />
+        <Country_Market Value="CL" />
+        <Country_Market Value="MX" />
+        <Country_Market Value="PE" />
+        <Country_Market Value="TR" />
+      </Country_Markets>
+    </file>
+    <file path="export/freexml.int/NL/1946.xml" Product_ID="1946" Updated="20140402021531" Quality="SUPPLIER" Supplier_id="1" Prod_ID="C6737A" Catid="225" On_Market="1" Model_Name="officejet g85 printer/fax/scanner/copier" Product_View="258" HighPic="http://images.icecat.biz/img/norm/high/1946.jpg" HighPicSize="4745" HighPicWidth="170" HighPicHeight="190" Date_Added="20050627000000">
+      <EAN_UPCS>
+        <EAN_UPC Value="0025184253301" />
+      </EAN_UPCS>
+      <Country_Markets>
+        <Country_Market Value="NL" />
+      </Country_Markets>
+    </file>
+</files.index>
+</ICECAT-interface>

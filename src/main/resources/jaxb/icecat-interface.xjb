@@ -1,0 +1,96 @@
+<bindings xmlns="http://java.sun.com/xml/ns/jaxb"
+          xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance"
+          xmlns:xs="http://www.w3.org/2001/XMLSchema"
+          version="2.1">
+    <bindings schemaLocation="icecat-interface.xsd" version="1.0">
+    
+        <!-- rename EANCode -->
+        <bindings node="//xs:complexType[@name='Product']">
+            <bindings node=".//xs:element[@name='EANCode']">
+                <property name="EANCodeElement"/>
+            </bindings>
+            
+            <bindings node=".//xs:attribute[@name='EANCode']">
+                <property name="EANCodeAttribute"/>
+            </bindings>
+        </bindings>
+        
+         <!-- rename Sign -->
+        <bindings node="//xs:complexType[@name='Measure']">
+            <bindings node=".//xs:element[@name='Sign']">
+                <property name="SignElement"/>
+            </bindings>
+            
+            <bindings node=".//xs:attribute[@name='Sign']">
+                <property name="SignAttribute"/>
+            </bindings>
+        </bindings>
+        
+         <!-- rename LocalValue -->
+        <bindings node="//xs:complexType[@name='ProductFeature']">
+            <bindings node=".//xs:element[@name='LocalValue']">
+                <property name="LocalValueElement"/>
+            </bindings>
+            
+            <bindings node=".//xs:attribute[@name='Local_Value']">
+                <property name="LocalValueAttribute"/>
+            </bindings>
+        </bindings>
+        
+        <!-- rename LocalValue -->
+        <bindings node="//xs:complexType[@name='ProductFamily']">
+            <bindings node=".//xs:element[@name='Name']">
+                <property name="NameElement"/>
+            </bindings>
+            
+            <bindings node=".//xs:attribute[@name='Name']">
+                <property name="NameAttribute"/>
+            </bindings>
+        </bindings>
+        
+        <!-- rename Value -->
+        <bindings node="//xs:complexType[@name='Sign']">
+            <bindings node=".//xs:attribute[@name='Value']">
+                <property name="ValueAttribute"/>
+            </bindings>
+        </bindings>
+        
+        <!-- rename LocalValue -->
+        <bindings node="//xs:complexType[@name='CategoryFeatureGroup']">
+            <bindings node=".//xs:element[@name='FeatureGroup']">
+                <property name="FeatureGroupElement"/>
+            </bindings>
+            
+            <bindings node=".//xs:attribute[@name='FeatureGroup']">
+                <property name="FeatureGroupAttribute"/>
+            </bindings>
+        </bindings>
+        
+         <!-- rename Value -->
+        <bindings node="//xs:complexType[@name='Name']">
+            <bindings node=".//xs:attribute[@name='Value']">
+                <property name="ValueAttribute"/>
+            </bindings>
+        </bindings>
+        
+        <!-- rename LocalValue -->
+        <bindings node="//xs:complexType[@name='Category']">
+            <bindings node=".//xs:element[@name='UNCATID']">
+                <property name="UNCATID_Element"/>
+            </bindings>
+            
+            <bindings node=".//xs:attribute[@name='UNCATID']">
+                <property name="UNCATID_Attribute"/>
+            </bindings>
+        </bindings>
+        
+        <!-- rename LocalValue -->
+        <bindings node="//xs:complexType[@name='Supplier']">
+            <bindings node=".//xs:attribute[@name='Name']">
+                <property name="NameAttribute"/>
+            </bindings>
+        </bindings>
+        
+        
+    </bindings>
+</bindings>
