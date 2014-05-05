@@ -1,8 +1,8 @@
 Icecat importer
-==============
+===============
 
 This is the icecat-importer free program developed by Christian Roman Rua.
-Version: 0.1
+Version: 1.0
 If you have some questions about this program, you can contact me to: cralcubo@hotmail.com
 
 Disclaimer
