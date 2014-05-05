@@ -119,6 +119,10 @@ public class IcecatProductsImporter extends RecursiveAction {
 			simpleProduct.setUpdateDate(TransformerUtlity.parseDate(updateStr));
 
 			// Save product in List
+			//V1.0 Note: Just for this version we will store
+			//products in a list to be persisted later, next release
+			//implement a live queue of objects that can be persisted
+			//at the same time as they are imported from icecat.
 			productsParsed.add(simpleProduct);
 			
 		} catch (IcecatConnectionException e) {

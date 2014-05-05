@@ -78,4 +78,5 @@ Depending on how popular this project becomes, I have the following goals for fu
 
 - Add support for more databases.
 - Add support for all the languages supported by Icecat.
+- Store objects to the database meanwhile others are being parsed. (Create a queue of objects)
 
