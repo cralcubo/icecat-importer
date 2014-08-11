@@ -12,8 +12,6 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.persistence.Column;
-import javax.persistence.Id;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlAttribute;
@@ -138,9 +136,6 @@ public class Product {
     protected List<SummaryDescription> summaryDescription;
     @XmlElement(name = "Supplier", required = true)
     protected Supplier supplier;
-    
-    @Id
-    @Column(name="product_id")
     @XmlAttribute(name = "ID", required = true)
     protected BigInteger id;
     @XmlAttribute(name = "Name", required = true)
