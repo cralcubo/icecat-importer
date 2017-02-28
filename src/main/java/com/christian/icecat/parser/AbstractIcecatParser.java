@@ -46,12 +46,12 @@ public abstract class AbstractIcecatParser<T> {
 				getConnector().open();
 				icecatObject = clazz.cast(um.unmarshal(getConnector().getConnectionStream()));
 			} catch (IOException e) {
-				LOG.error("There was an error opening the icecat stream: {}",e.getMessage());
+				LOG.error("There was an error opening the icecat stream.", e);
 				throw new IcecatConnectionException();
 			}
 			
 		} catch (JAXBException e) {
-			LOG.error("There was an error unmarshalling the icecat xml stream: {}",e.getMessage());
+			LOG.error("There was an error unmarshalling the icecat xml stream.", e);
 			throw new IcecatParsingException();
 		} 
 		

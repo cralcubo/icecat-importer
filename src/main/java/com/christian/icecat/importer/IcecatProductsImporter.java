@@ -54,7 +54,7 @@ public class IcecatProductsImporter extends RecursiveAction {
 			try {
 				productsId = icecatController.getAllProductsId();
 			} catch (IcecatConnectionException | IcecatParsingException e) {
-				LOG.error("No products id could be retrieved from Icecat, therefore is not possible to import any.");
+				LOG.error("No products id could be retrieved from Icecat, therefore is not possible to import any.", e);
 				throw new RuntimeException(e);
 			}
 		}
@@ -126,13 +126,11 @@ public class IcecatProductsImporter extends RecursiveAction {
 			productsParsed.add(simpleProduct);
 			
 		} catch (IcecatConnectionException e) {
-			LOG.error("This product: {} strangely is not available in ICECAT, sometimes this happens because a product can be available in one language but not in the one that you choose. This product will not be included.", productId);
+			LOG.error("This product: {} strangely is not available in ICECAT, sometimes this happens because a product can be available in one language but not in the one that you choose. This product will not be included.", productId, e);
 		} catch (IcecatParsingException e) {
-			LOG.error("There was an error parsing the product: {}.", productId);
-			e.printStackTrace();
+			LOG.error("There was an error parsing the product: {}.", productId, e);
 		} catch (IcecatNullIdException e) {
-			LOG.error("Something really weird happen with this product: {}; this product will not be parsed.", productId);
-			e.printStackTrace();
+			LOG.error("Something really weird happen with this product: {}; this product will not be parsed.", productId, e);
 		}
 
 	}
