@@ -43,7 +43,7 @@ public class IcecatURLConnector extends AbstractIcecatConnector{
 			connectionStream = new URL(getUrl()).openStream();
 			LOG.debug("Successfully connected to ICECAT");
 		} catch (IOException e) {
-			LOG.error("Error connecting to ICECAT");
+			LOG.error("Error connecting to ICECAT", e);
 			throw new IcecatConnectionException("Error connecting to ICECAT");
 		}
 	}

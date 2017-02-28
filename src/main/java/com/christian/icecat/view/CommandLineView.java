@@ -54,11 +54,11 @@ public class CommandLineView {
 
 	public void run() {
 		Messenger.welcomeMessage();
-		//Connect to ICECAT
+		// Connect to ICECAT
 		AbstractIcecatConnector icecatConnector = connectToIcecat();
 		Messenger.successfullyConnected("Icecat");
-		
-		//Connect to DB
+
+		// Connect to DB
 		HibernateConnector databaseConnector = connectToDatabase();
 		Messenger.successfullyConnected("Database");
 
@@ -185,7 +185,7 @@ public class CommandLineView {
 			connectable.connect();
 			return true;
 		} catch (Exception e) {
-			LOG.error("Error connecting to Database: {}", e.getMessage());
+			LOG.error("Error connecting to Database.", e);
 			System.out.println(Messenger.WRONG_INFO_MESSAGE);
 			return false;
 		}

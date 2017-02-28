@@ -15,6 +15,7 @@ import com.christian.icecat.exceptions.IcecatConnectionException;
 import com.christian.icecat.exceptions.IcecatParsingException;
 import com.christian.icecat.model.index.IcecatFile;
 import com.christian.icecat.model.index.IcecatFileWrapper;
+import com.christian.icecat.utility.JavaVersionChecker;
 
 public class IcecatIndexParserTest {
 	private static final String FILE_PATH = "./src/test/resources/TestIcecatIndexFile.xml";
@@ -22,6 +23,10 @@ public class IcecatIndexParserTest {
 	
 	@Before
 	public void setUp(){
+		if(JavaVersionChecker.isJava8OrGreater())
+		{
+			System.setProperty("javax.xml.accessExternalDTD", "all");
+		}
 		IcecatFileConnector connector = new IcecatFileConnector(Paths.get(FILE_PATH)); 
 		parser = new IcecatIndexParser(connector);
 	}

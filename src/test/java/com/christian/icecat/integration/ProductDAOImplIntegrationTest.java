@@ -54,11 +54,8 @@ public class ProductDAOImplIntegrationTest {
 			
 		} catch (IcecatNullIdException e) {
 			e.printStackTrace();
-			log.error("There was an object with no ID");
+			log.error("There was an object with no ID.", e);
 		}
-		
-		
-		
 	}
 
 }
