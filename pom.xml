@@ -7,7 +7,13 @@
 	<packaging>jar</packaging>
 	
 	<name>icecat-importer</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
+	<developers>
+		<developer>
+			<name>Christian Roman Rua</name>
+			<email>christian.roman.rua@gmail.com</email>
+		</developer>
+	</developers>
 
 	<description>This is the icecat-importer program developed by Christian Roman Rua.
 				 This program will import, parse and persist icecat objects in a database
