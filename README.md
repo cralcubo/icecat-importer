@@ -2,7 +2,7 @@ Icecat importer
 ===============
 
 This is the icecat-importer free program developed by Christian Roman Rua.
-Version: 1.0
+Version: 1.0.1
 
 Disclaimer
 ===========
@@ -11,6 +11,9 @@ simple program that could import icecat products to a Database.
 
 Because this program was developed just for the fun of developing in Java, use it at your own risk and if your computer or company building does not explode
 enjoy it :D
+
+**Note:**
+*Now the importer run on Java 8!*
 
 Introduction
 ============
@@ -32,13 +35,13 @@ Important Notes:
 
 Database
 =========
-This program will import the Icecat information to your database.
+This program will import the Icecat information to your database (current implementation run on MySql).
 You don't need to create the tables, this program takes care of it.
 The tables created will be:
 
-+-----------------------------------+
+
 | Tables_in_icecat                  |
-+-----------------------------------+
+|-----------------------------------|
 | Category                          |
 | CategoryFeatureGroup              |
 | CategoryFeatureGroup_FeatureGroup |
@@ -59,14 +62,13 @@ The tables created will be:
 | Product_ProductFeature            |
 | Product_ProductRelated            |
 | Supplier                          |
-+-----------------------------------+
 
 From all these tables, the most important is the Product table, all the other tables have info that will make richer the information of a product.
 
 How it works
 ============
 
-01. Run icecat-importer: java -jar icecat-importer.jar
+01. Run icecat-importer: java -jar icecat-importer-101.jar
 02. Enter your Icecat credentials
 03. Enter your Database credentials
 04. Enter the number of products you want to import
@@ -75,7 +77,7 @@ Future goals
 ============
 Depending on how popular this project becomes, I have the following goals for future versions:
 
-- Add support for more databases.
+- Add support for more databases (currently configured to run with MySql).
 - Add support for all the languages supported by Icecat.
 - Store objects to the database meanwhile others are being parsed. (Create a queue of objects)
 
