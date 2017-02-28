@@ -15,8 +15,7 @@
 		</developer>
 	</developers>
 
-	<description>This is the icecat-importer program developed by Christian Roman Rua.
-				 This program will import, parse and persist icecat objects in a database
+	<description>This is the icecat-importer program that will import, parse and persist icecat objects in a database.
 	</description>
 	
 	<properties>
